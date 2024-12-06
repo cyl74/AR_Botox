@@ -1,0 +1,11 @@
+patient_id,name,contact_info,birthdate,medical_history
+1,John Doe,johndoe@example.com,1985-03-22,"Diabetes, Hypertension"
+2,Jane Smith,janesmith@example.com,1990-07-15,"Allergic to Penicillin"
+3,Michael Brown,michaelbrown@example.com,1978-11-08,"None"
+4,Susan Johnson,susanjohnson@example.com,1983-02-19,"Asthma"
+5,Emily Davis,emilydavis@example.com,1995-09-12,"History of migraines"
+6,Tom Walker,tomwalker@example.com,1980-06-30,"High cholesterol"
+7,Linda Martin,lindamartin@example.com,1988-03-14,"Anemia"
+8,Robert Wilson,robertwilson@example.com,1992-11-25,"None"
+9,Nancy Moore,nancymoore@example.com,1987-05-08,"Frequent headaches"
+10,James Taylor,jamestaylor@example.com,1976-12-20,"Allergic to seafood"

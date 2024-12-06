@@ -1,0 +1,11 @@
+appointment_id,patient_id,clinician_id,appointment_date,location,details
+1,1,1,2024-01-15,"Clinic A","Consultation and initial assessment"
+2,2,2,2024-02-10,"Clinic B","Follow-up for previous treatment"
+3,3,3,2024-03-20,"Clinic A","Initial consultation for Botox"
+4,4,4,2024-04-05,"Clinic C","Skin rejuvenation treatment"
+5,5,1,2024-05-18,"Clinic B","Follow-up for Botox"
+6,6,5,2024-06-12,"Clinic D","Consultation for wrinkle treatment"
+7,7,6,2024-07-08,"Clinic E","Lip filler consultation"
+8,8,1,2024-08-01,"Clinic A","Treatment for crow's feet wrinkles"
+9,9,4,2024-09-22,"Clinic C","Follow-up for skin rejuvenation"
+10,10,2,2024-10-10,"Clinic B","Botox for neck wrinkles"

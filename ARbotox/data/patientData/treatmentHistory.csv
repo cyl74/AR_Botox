@@ -1,0 +1,11 @@
+treatment_id,appointment_id,treatment_details,treatment_info_id
+1,1,"Injected 10 units in the forehead region",1
+2,2,"Perioral botox applied to enhance lip volume",2
+3,3,"Crow's feet treated with Botox injections",3
+4,4,"5 units injected into chin area",4
+5,5,"Follow-up for forehead Botox, no adjustments needed",1
+6,6,"Initial Botox treatment for forehead and crow's feet",1
+7,7,"Follow-up for Glabellar lines",6
+8,8,"Crow's feet Botox adjusted for more symmetry",3
+9,9,"Treatment for Dimple Chin using Botox",5
+10,10,"Bunny line Botox, follow up in two weeks",8

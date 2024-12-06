@@ -1,0 +1,479 @@
+landmark,segment_name,category_id,area,region_name,injection_name,injection_point
+0,cupids_bow,37,Lips,Cupids Bow,null,FALSE
+27,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+28,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+33,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+31,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+35,orbital_oculi,25,Eye,Orbital Oculi,Orbital Oculi 35,FALSE
+46,temporalis,34,Temples,Temporalis,null,FALSE
+34,temporalis,34,Temples,Temporalis,null,FALSE
+21,temporalis,34,Temples,Temporalis,null,FALSE
+11,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+12,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+15,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+16,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+17,obicularis_oris,35,Lips,Obicularis Oris,Obicularis Oris 17,FALSE
+25,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+7,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+30,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+29,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+38,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+37,vermillion_upper,38,Lips,Vermillion Upper,null,FALSE
+39,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+40,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+43,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 43,FALSE
+42,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+41,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+32,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 32,FALSE
+36,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+50,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+49,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+48,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+45,nose_tip,48,Nose,Nose Tip,null,FALSE
+44,dilator_naris_anterior,10,Nose,Dilator Naris Anterior,null,FALSE
+20,dilator_naris_anterior,10,Nose,Dilator Naris Anterior,null,FALSE
+2,philtral_columns,36,Lips,Philtral Columns,null,FALSE
+19,nose_tip,48,Nose,Nose Tip,null,FALSE
+1,columella,45,Nose,Columella,null,FALSE
+4,dilator_naris_anterior,10,Nose,Dilator Naris Anterior,null,FALSE
+5,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+6,radix,47,Nose,Radix,null,FALSE
+8,radix,47,Nose,Radix,null,FALSE
+9,procerus,28,Nose,Procerus,Procerus 9,FALSE
+10,frontalis,11,Forehead,Frontalis,Frontalis 10,FALSE
+3,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+47,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+26,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+22,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+23,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+24,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+14,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+18,mentalis,19,Chin,Mentalis,Mentalis 18,FALSE
+13,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+62,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+57,risorius,29,Cheek,Risorius,null,FALSE
+58,masseter,17,Masseter,Masseter,Masseter 58,FALSE
+51,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+55,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+60,nasalis_alar,22,Nose,Nasalis Alar,null,FALSE
+59,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+64,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+61,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+66,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+63,temporalis,34,Temples,Temporalis,null,FALSE
+70,temporalis,34,Temples,Temporalis,null,FALSE
+56,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+65,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+52,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+53,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+68,frontalis,11,Forehead,Frontalis,null,FALSE
+54,temporalis,34,Temples,Temporalis,null,FALSE
+69,frontalis,11,Forehead,Frontalis,Frontalis 69,FALSE
+67,corrugator_supercilii,5,Forehead,Corrugator Supercilii,null,FALSE
+94,columella,45,Nose,Columella,null,FALSE
+102,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+91,depressor_labii_inferioris,7,Lower lip,Depressor Labii Inferioris,null,FALSE
+87,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+146,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+96,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+95,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+90,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+89,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+88,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+80,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+78,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+77,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+74,vermillion_upper,38,Lips,Vermillion Upper,null,FALSE
+148,mentalis,19,Chin,Mentalis,null,FALSE
+125,columella,45,Nose,Columella,null,FALSE
+97,obicularis_oris,35,Lips,Obicularis Oris,Obicularis Oris 97,FALSE
+99,nasalis_alar,22,Nose,Nasalis Alar,null,FALSE
+129,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 129,FALSE
+75,nasalis_alar,22,Nose,Nasalis Alar,null,FALSE
+98,nasalis_alar,22,Nose,Nasalis Alar,null,FALSE
+79,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+133,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+112,medial_palpebral_ligament,18,Eye,Medial Palpebral Ligament,null,FALSE
+115,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+131,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 131,FALSE
+134,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+126,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+142,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+140,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 140,FALSE
+149,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 149,FALSE
+150,platysma,27,Unknown,Platysma,null,FALSE
+135,risorius,29,Cheek,Risorius,null,FALSE
+138,masseter,17,Masseter,Masseter,Masseter 138,FALSE
+132,masseter,17,Masseter,Masseter,Masseter 132,FALSE
+147,buccinator,3,Cheek,Buccinator,null,FALSE
+123,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+137,masseter,17,Masseter,Masseter,Masseter 137,FALSE
+93,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+116,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+127,temporalis,34,Temples,Temporalis,null,FALSE
+143,temporalis,34,Temples,Temporalis,null,FALSE
+139,temporalis,34,Temples,Temporalis,null,FALSE
+106,depressor_labii_inferioris,7,Lower lip,Depressor Labii Inferioris,null,FALSE
+84,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+83,obicularis_oris,35,Lips,Obicularis Oris,Obicularis Oris 83,FALSE
+85,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+86,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+92,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+81,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+141,columella,45,Nose,Columella,null,FALSE
+72,vermillion_upper,38,Lips,Vermillion Upper,null,FALSE
+71,temporalis,34,Temples,Temporalis,null,FALSE
+103,frontalis,11,Forehead,Frontalis,null,FALSE
+104,temporalis,34,Temples,Temporalis,null,FALSE
+109,depressor_septi_nasi,8,Nose,Depressor Septi Nasi,null,FALSE
+108,frontalis,11,Forehead,Frontalis,Frontalis 108,FALSE
+107,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+105,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+124,orbital_oculi,25,Eye,Orbital Oculi,Orbital Oculi 124,FALSE
+113,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+130,lateral_palpebral_ligament,43,Eye,Lateral Palpebral Ligament,null,FALSE
+110,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+144,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+145,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+122,nasalis_transverse,21,Nose,Nasalis Transverse,Nasalis Transverse 122,FALSE
+128,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 128,FALSE
+114,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 114,FALSE
+100,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+121,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+120,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+119,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+118,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+117,orbital_oculi,25,Eye,Orbital Oculi,Orbital Oculi 117,FALSE
+111,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+73,vermillion_upper,38,Lips,Vermillion Upper,null,FALSE
+76,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+136,platysma,27,Unknown,Platysma,null,FALSE
+101,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+82,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+177,masseter,17,Masseter,Masseter,Masseter 177,FALSE
+192,masseter,17,Masseter,Masseter,Masseter 192,FALSE
+190,medial_palpebral_ligament,18,Eye,Medial Palpebral Ligament,null,FALSE
+173,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+155,medial_palpebral_ligament,18,Eye,Medial Palpebral Ligament,null,FALSE
+151,procerus,28,Nose,Procerus,Procerus 151,FALSE
+168,radix,47,Nose,Radix,null,FALSE
+193,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 193,FALSE
+188,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 188,FALSE
+197,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+196,nasalis_transverse,21,Nose,Nasalis Transverse,Nasalis Transverse 196,FALSE
+174,nasalis_transverse,21,Nose,Nasalis Transverse,Nasalis Transverse 174,FALSE
+195,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+153,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+157,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+158,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+161,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+160,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+159,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+163,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+156,temporalis,34,Temples,Temporalis,null,FALSE
+162,temporalis,34,Temples,Temporalis,null,FALSE
+198,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+166,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+164,philtral_columns,36,Lips,Philtral Columns,null,FALSE
+167,depressor_septi_nasi,8,Nose,Depressor Septi Nasi,null,FALSE
+165,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 165,FALSE
+186,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+185,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+184,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+183,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+178,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+180,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+181,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+182,obicularis_oris,35,Lips,Obicularis Oris,Obicularis Oris 182,FALSE
+194,obicularis_oris,35,Lips,Obicularis Oris,Obicularis Oris 194,FALSE
+176,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 176,FALSE
+170,platysma,27,Unknown,Platysma,null,FALSE
+171,depressor_labii_inferioris,7,Lower lip,Depressor Labii Inferioris,null,FALSE
+152,mentalis,19,Chin,Mentalis,null,FALSE
+175,mentalis,19,Chin,Mentalis,Mentalis 175,FALSE
+199,mentalis,19,Chin,Mentalis,Mentalis 199,FALSE
+200,mentalis,19,Chin,Mentalis,Mentalis 200,FALSE
+169,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 169,FALSE
+172,risorius,29,Cheek,Risorius,null,FALSE
+187,buccinator,3,Cheek,Buccinator,null,FALSE
+154,medial_palpebral_ligament,18,Eye,Medial Palpebral Ligament,null,FALSE
+179,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+191,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+189,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+224,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+223,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+222,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+221,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+234,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+243,medial_palpebral_ligament,18,Eye,Medial Palpebral Ligament,null,FALSE
+233,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+232,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+231,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+230,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+229,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+228,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+226,lateral_palpebral_ligament,43,Eye,Lateral Palpebral Ligament,null,FALSE
+247,lateral_palpebral_ligament,43,Eye,Lateral Palpebral Ligament,null,FALSE
+246,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+225,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+245,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 245,FALSE
+244,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+227,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+215,masseter,17,Masseter,Masseter,Masseter 215,FALSE
+213,buccinator,3,Cheek,Buccinator,null,FALSE
+205,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+207,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+206,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+216,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+214,buccinator,3,Cheek,Buccinator,null,FALSE
+212,risorius,29,Cheek,Risorius,null,FALSE
+202,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 202,FALSE
+210,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 210,FALSE
+204,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 204,FALSE
+211,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 211,FALSE
+201,depressor_labii_inferioris,7,Lower lip,Depressor Labii Inferioris,null,FALSE
+208,mentalis,19,Chin,Mentalis,Mentalis 208,FALSE
+242,depressor_septi_nasi,8,Nose,Depressor Septi Nasi,null,FALSE
+241,depressor_septi_nasi,8,Nose,Depressor Septi Nasi,null,FALSE
+238,dilator_naris_anterior,10,Nose,Dilator Naris Anterior,null,FALSE
+239,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+237,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+218,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+220,dilator_naris_anterior,10,Nose,Dilator Naris Anterior,null,FALSE
+219,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+235,nasalis_alar,22,Nose,Nasalis Alar,null,FALSE
+240,obicularis_oris,35,Lips,Obicularis Oris,Obicularis Oris 240,FALSE
+203,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+209,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 209,FALSE
+236,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+217,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+248,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+250,depressor_septi_nasi,8,Nose,Depressor Septi Nasi,null,FALSE
+249,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+292,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+269,vermillion_upper,38,Lips,Vermillion Upper,null,FALSE
+286,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+258,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+295,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+257,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+259,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+260,lateral_palpebral_ligament,43,Eye,Lateral Palpebral Ligament,null,FALSE
+263,lateral_palpebral_ligament,43,Eye,Lateral Palpebral Ligament,null,FALSE
+254,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+253,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+252,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+256,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+285,corrugator_supercilii,5,Forehead,Corrugator Supercilii,null,FALSE
+296,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+282,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+277,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 277,FALSE
+283,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+293,temporalis,34,Temples,Temporalis,null,FALSE
+276,temporalis,34,Temples,Temporalis,null,FALSE
+300,temporalis,34,Temples,Temporalis,null,FALSE
+265,orbital_oculi,25,Eye,Orbital Oculi,Orbital Oculi 265,FALSE
+261,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+264,temporalis,34,Temples,Temporalis,null,FALSE
+284,temporalis,34,Temples,Temporalis,null,FALSE
+298,temporalis,34,Temples,Temporalis,null,FALSE
+251,temporalis,34,Temples,Temporalis,null,FALSE
+299,frontalis,11,Forehead,Frontalis,Frontalis 299,FALSE
+297,corrugator_supercilii,5,Forehead,Corrugator Supercilii,null,FALSE
+279,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 279,FALSE
+278,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+294,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+289,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+290,nasalis_alar,22,Nose,Nasalis Alar,null,FALSE
+274,nose_tip,48,Nose,Nose Tip,null,FALSE
+275,nose_tip,48,Nose,Nose Tip,null,FALSE
+281,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+266,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+280,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+288,masseter,17,Masseter,Masseter,Masseter 288,FALSE
+262,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 262,FALSE
+287,oral_commissure,40,Lips,Oral Commissure,null,FALSE
+273,obicularis_oris,35,Lips,Obicularis Oris,Obicularis Oris 273,FALSE
+291,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+270,vermillion_upper,38,Lips,Vermillion Upper,null,FALSE
+267,cupids_bow,37,Lips,Cupids Bow,null,FALSE
+268,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+271,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+272,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+255,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+302,cupids_bow,37,Lips,Cupids Bow,null,FALSE
+303,vermillion_upper,38,Lips,Vermillion Upper,null,FALSE
+304,vermillion_upper,38,Lips,Vermillion Upper,null,FALSE
+310,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+311,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+317,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+318,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+316,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+315,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+319,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+320,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+324,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+325,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+314,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+321,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+307,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+308,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+306,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+335,depressor_labii_inferioris,7,Lower lip,Depressor Labii Inferioris,null,FALSE
+313,obicularis_oris,35,Lips,Obicularis Oris,Obicularis Oris 313,FALSE
+322,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+326,depressor_septi_nasi,8,Nose,Depressor Septi Nasi,null,FALSE
+328,nasalis_alar,22,Nose,Nasalis Alar,null,FALSE
+305,nasalis_alar,22,Nose,Nasalis Alar,null,FALSE
+327,obicularis_oris,35,Lips,Obicularis Oris,Obicularis Oris 327,FALSE
+309,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+344,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+331,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+343,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 343,FALSE
+329,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+350,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+349,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+348,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+330,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+347,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+346,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+340,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+345,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+323,masseter,17,Masseter,Masseter,Masseter 323,FALSE
+342,lateral_palpebral_ligament,43,Eye,Lateral Palpebral Ligament,null,FALSE
+339,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+341,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+336,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+334,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+301,temporalis,34,Temples,Temporalis,null,FALSE
+333,temporalis,34,Temples,Temporalis,null,FALSE
+332,temporalis,34,Temples,Temporalis,null,FALSE
+338,depressor_septi_nasi,8,Nose,Depressor Septi Nasi,null,FALSE
+337,frontalis,11,Forehead,Frontalis,Frontalis 337,FALSE
+312,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+393,philtral_columns,36,Lips,Philtral Columns,null,FALSE
+359,lateral_palpebral_ligament,43,Eye,Lateral Palpebral Ligament,null,FALSE
+388,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+362,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+382,medial_palpebral_ligament,18,Eye,Medial Palpebral Ligament,null,FALSE
+387,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+386,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+385,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+384,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+398,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+353,orbital_oculi,25,Eye,Orbital Oculi,Orbital Oculi 353,FALSE
+383,temporalis,34,Temples,Temporalis,null,FALSE
+368,temporalis,34,Temples,Temporalis,null,FALSE
+389,temporalis,34,Temples,Temporalis,null,FALSE
+372,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+352,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+376,buccinator,3,Cheek,Buccinator,null,FALSE
+361,masseter,17,Masseter,Masseter,Masseter 361,FALSE
+366,masseter,17,Masseter,Masseter,Masseter 366,FALSE
+367,risorius,29,Cheek,Risorius,null,FALSE
+397,risorius,29,Cheek,Risorius,null,FALSE
+364,platysma,27,Unknown,Platysma,null,FALSE
+365,platysma,27,Unknown,Platysma,null,FALSE
+379,platysma,27,Unknown,Platysma,null,FALSE
+378,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 378,FALSE
+377,mentalis,19,Chin,Mentalis,null,FALSE
+396,depressor_labii_inferioris,7,Lower lip,Depressor Labii Inferioris,null,FALSE
+369,depressor_labii_inferioris,7,Lower lip,Depressor Labii Inferioris,null,FALSE
+395,platysma,27,Unknown,Platysma,null,FALSE
+394,platysma,27,Unknown,Platysma,null,FALSE
+358,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+360,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+392,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+370,depressor_septi_nasi,8,Nose,Depressor Septi Nasi,null,FALSE
+354,columella,45,Nose,Columella,null,FALSE
+391,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+363,dilator_naris_anterior,10,Nose,Dilator Naris Anterior,null,FALSE
+371,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+355,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 355,FALSE
+399,nasalis_transverse,21,Nose,Nasalis Transverse,Nasalis Transverse 399,FALSE
+357,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 357,FALSE
+351,nasalis_transverse,21,Nose,Nasalis Transverse,Nasalis Transverse 351,FALSE
+375,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+381,medial_palpebral_ligament,18,Eye,Medial Palpebral Ligament,null,FALSE
+380,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+374,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+373,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+390,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+356,temporalis,34,Temples,Temporalis,null,FALSE
+461,columella,45,Nose,Columella,null,FALSE
+459,dilator_naris_anterior,10,Nose,Dilator Naris Anterior,null,FALSE
+458,dilator_naris_anterior,10,Nose,Dilator Naris Anterior,null,FALSE
+408,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+407,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+467,lateral_palpebral_ligament,43,Eye,Lateral Palpebral Ligament,null,FALSE
+446,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+463,medial_palpebral_ligament,18,Eye,Medial Palpebral Ligament,null,FALSE
+464,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+465,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 465,FALSE
+417,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,Levator Labii Superioris Alaque Nasi 417,FALSE
+453,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+452,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+451,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+450,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+449,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+448,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+412,levator_labii_superioris_alaque_nasi,15,Upper lip,Levator Labii Superioris Alaque Nasi,null,FALSE
+419,nasalis_transverse,21,Nose,Nasalis Transverse,Nasalis Transverse 419,FALSE
+440,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+439,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+455,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+460,nasalis_alar,22,Nose,Nasalis Alar,null,FALSE
+462,columella,45,Nose,Columella,null,FALSE
+438,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+457,dilator_naris_anterior,10,Nose,Dilator Naris Anterior,null,FALSE
+466,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+477,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+414,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+413,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+441,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+442,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+443,orbital_oculi,25,Eye,Orbital Oculi,null,FALSE
+444,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+445,orbital_oculi,25,Eye,Orbital Oculi,Orbital Oculi 445,FALSE
+437,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+456,compressor_narium_minor,4,Nose,Compressor Narium Minor,null,FALSE
+420,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+429,nasalis_transverse,21,Nose,Nasalis Transverse,null,FALSE
+454,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+476,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+473,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+474,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+423,levator_labii_superioris,14,Upper lip,Levator Labii Superioris,null,FALSE
+426,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+425,zygomaticus_minor,32,Cheek,Zygomaticus Minor,null,FALSE
+436,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+427,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+411,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+401,masseter,17,Masseter,Masseter,Masseter 401,FALSE
+433,masseter,17,Masseter,Masseter,Masseter 433,FALSE
+435,buccinator,3,Cheek,Buccinator,null,FALSE
+416,masseter,17,Masseter,Masseter,Masseter 416,FALSE
+434,risorius,29,Cheek,Risorius,null,FALSE
+430,platysma,27,Unknown,Platysma,null,FALSE
+431,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 431,FALSE
+428,mentalis,19,Chin,Mentalis,Mentalis 428,FALSE
+421,mentalis,19,Chin,Mentalis,null,FALSE
+418,obicularis_oris,35,Lips,Obicularis Oris,Obicularis Oris 418,FALSE
+424,depressor_labii_inferioris,7,Lower lip,Depressor Labii Inferioris,null,FALSE
+422,depressor_anguli_oris,6,Chin,Depressor Anguli Oris,Depressor Anguli Oris 422,FALSE
+432,risorius,29,Cheek,Risorius,null,FALSE
+415,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+409,tubercles_upper,41,Lips,Tubercles Upper,null,FALSE
+410,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+402,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+403,tubercles_lower,42,Lower lip,Tubercles Lower,null,FALSE
+404,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+405,vermillion_lower,39,Lips,Vermillion Lower,null,FALSE
+406,depressor_labii_inferioris,7,Lower lip,Depressor Labii Inferioris,null,FALSE
+475,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+470,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+472,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+471,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+468,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+469,orbiculi_pelperbal,33,Eye,Orbiculi Pelperbal,null,FALSE
+447,zygomaticus_major,31,Cheek,Zygomaticus Major,null,FALSE
+400,depressor_labii_inferioris,7,Lower lip,Depressor Labii Inferioris,null,FALSE

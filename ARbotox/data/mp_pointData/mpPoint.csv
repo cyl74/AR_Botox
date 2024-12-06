@@ -1,0 +1,80 @@
+id,injection_name,mp_point,dosage,treatment_type,depth,desired_outcome,side_effects
+1,Frontalis 10,10,4,Forehead Lines,Superficial ,Soften horizontal forehead rhytids,Brows drop
+2,Frontalis 69,69,4,Forehead Lines,Superficial ,Soften horizontal forehead rhytids,Brows drop
+3,Frontalis 108,108,4,Forehead Lines,Superficial ,Soften horizontal forehead rhytids,Brows drop
+4,Frontalis 299,299,4,Forehead Lines,Superficial ,Soften horizontal forehead rhytids,Brows drop
+5,Frontalis 337,337,4,Forehead Lines,Superficial ,Soften horizontal forehead rhytids,Brows drop 
+6,Procerus 9,9,2,Frown Lines,Superficial ,"Raise bridge of nose, soften horizontal rhytid ",Skin between brows drop if frontalis injected
+7,Procerus 151,151,2,Frown Lines,Superficial ,"Raise bridge of nose, soften horizontal rhytid ",Skin between brows drop if frontalis injected
+8,Orbital Oculi 35,35,2.5,Crow’s Feet,Superficial ,"Soften horizontal and diagonal rhytids, raise lateral brows, more open eye appearance",May affect smile if zygomaticus minor or major receives BoNT-A
+9,Orbital Oculi 117,117,2.5,Crow’s Feet,Superficial ,"Soften horizontal and diagonal rhytids, raise lateral brows, more open eye appearance",May affect smile if zygomaticus minor or major receives BoNT-A
+10,Orbital Oculi 124,124,2.5,Crow’s Feet,Superficial ,"Soften horizontal and diagonal rhytids, raise lateral brows, more open eye appearance",May affect smile if zygomaticus minor or major receives BoNT-A
+11,Orbital Oculi 265,265,2.5,Crow’s Feet,Superficial ,"Soften horizontal and diagonal rhytids, raise lateral brows, more open eye appearance",May affect smile if zygomaticus minor or major receives BoNT-A
+12,Orbital Oculi 353,353,2.5,Crow’s Feet,Superficial ,"Soften horizontal and diagonal rhytids, raise lateral brows, more open eye appearance",May affect smile if zygomaticus minor or major receives BoNT-A
+13,Orbital Oculi 445,445,2.5,Crow’s Feet,Superficial ,"Soften horizontal and diagonal rhytids, raise lateral brows, more open eye appearance",May affect smile if zygomaticus minor or major receives BoNT-A
+14,Nasalis Transverse 122,122,1,Bunny Lines,Superficial ,Soften or eliminate diagonal rhytids along side of nose “bunny lines” ,"May inadvertently inject LLSAN, dropping upper lip"
+15,Nasalis Transverse 174,174,1,Bunny Lines,Superficial ,Soften or eliminate diagonal rhytids along side of nose “bunny lines” ,"May inadvertently inject LLSAN, dropping upper lip"
+16,Nasalis Transverse 196,196,1,Bunny Lines,Superficial ,Soften or eliminate diagonal rhytids along side of nose “bunny lines” ,"May inadvertently inject LLSAN, dropping upper lip"
+17,Nasalis Transverse 351,351,1,Bunny Lines,Superficial ,Soften or eliminate diagonal rhytids along side of nose “bunny lines” ,"May inadvertently inject LLSAN, dropping upper lip"
+18,Nasalis Transverse 399,399,1,Bunny Lines,Superficial ,Soften or eliminate diagonal rhytids along side of nose “bunny lines” ,"May inadvertently inject LLSAN, dropping upper lip"
+19,Nasalis Transverse 419,419,1,Bunny Lines,Superficial ,Soften or eliminate diagonal rhytids along side of nose “bunny lines” ,"May inadvertently inject LLSAN, dropping upper lip"
+20,Levator Labii Superioris Alaque Nasi 114,114,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+21,Levator Labii Superioris Alaque Nasi 128,128,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+22,Levator Labii Superioris Alaque Nasi 129,129,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+23,Levator Labii Superioris Alaque Nasi 131,131,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+24,Levator Labii Superioris Alaque Nasi 165,165,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+25,Levator Labii Superioris Alaque Nasi 188,188,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+26,Levator Labii Superioris Alaque Nasi 193,193,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+27,Levator Labii Superioris Alaque Nasi 209,209,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+28,Levator Labii Superioris Alaque Nasi 245,245,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+29,Levator Labii Superioris Alaque Nasi 277,277,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+30,Levator Labii Superioris Alaque Nasi 279,279,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+31,Levator Labii Superioris Alaque Nasi 343,343,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+32,Levator Labii Superioris Alaque Nasi 355,355,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+33,Levator Labii Superioris Alaque Nasi 357,357,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+34,Levator Labii Superioris Alaque Nasi 417,417,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+35,Levator Labii Superioris Alaque Nasi 465,465,2,Nasolabial Folds,Superficial ,"Decrease a smile that shows too much gingiva, or a “gummy smile” ","Unable to show upper teeth, making the upper lip look long"
+36,Obicularis Oris 17,17,1,Radial Lip Lines,Very superficial,"Soften vertical rhytids, evert lip border","Reduce function of mouth, phonation"
+37,Obicularis Oris 83,83,1,Radial Lip Lines,Very superficial,"Soften vertical rhytids, evert lip border","Reduce function of mouth, phonation"
+38,Obicularis Oris 97,97,1,Radial Lip Lines,Very superficial,"Soften vertical rhytids, evert lip border","Reduce function of mouth, phonation"
+39,Obicularis Oris 182,182,1,Radial Lip Lines,Very superficial,"Soften vertical rhytids, evert lip border","Reduce function of mouth, phonation"
+40,Obicularis Oris 194,194,1,Radial Lip Lines,Very superficial,"Soften vertical rhytids, evert lip border","Reduce function of mouth, phonation"
+41,Obicularis Oris 240,240,1,Radial Lip Lines,Very superficial,"Soften vertical rhytids, evert lip border","Reduce function of mouth, phonation"
+42,Obicularis Oris 273,273,1,Radial Lip Lines,Very superficial,"Soften vertical rhytids, evert lip border","Reduce function of mouth, phonation"
+43,Obicularis Oris 313,313,1,Radial Lip Lines,Very superficial,"Soften vertical rhytids, evert lip border","Reduce function of mouth, phonation"
+44,Obicularis Oris 327,327,1,Radial Lip Lines,Very superficial,"Soften vertical rhytids, evert lip border","Reduce function of mouth, phonation"
+45,Obicularis Oris 418,418,1,Radial Lip Lines,Very superficial,"Soften vertical rhytids, evert lip border","Reduce function of mouth, phonation"
+46,Depressor Anguli Oris 32,32,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+47,Depressor Anguli Oris 43,43,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+48,Depressor Anguli Oris 140,140,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+49,Depressor Anguli Oris 149,149,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+50,Depressor Anguli Oris 169,169,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+51,Depressor Anguli Oris 176,176,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+52,Depressor Anguli Oris 202,202,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+53,Depressor Anguli Oris 204,204,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+54,Depressor Anguli Oris 210,210,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+55,Depressor Anguli Oris 211,211,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+56,Depressor Anguli Oris 262,262,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+57,Depressor Anguli Oris 378,378,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+58,Depressor Anguli Oris 422,422,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+59,Depressor Anguli Oris 431,431,2,Marionette Lines,"Deep on mandible, medium above mandible. Stay laterally to avoid DLI","Lift corners of mouth, soften crescent-shaped horizontal rhytids","May inadvertently inject DLI, causing crooked smile"
+60,Mentalis 18,18,2,Chin Lines,"Deep inferiorly on mandible, superficially above, near mental crease","Soften mental crease, relax chin, soften dimples on chin (cobblestone appearance of chin) ","May inadvertently inject DLI, causing crooked smile"
+61,Mentalis 175,175,2,Chin Lines,"Deep inferiorly on mandible, superficially above, near mental crease","Soften mental crease, relax chin, soften dimples on chin (cobblestone appearance of chin) ","May inadvertently inject DLI, causing crooked smile"
+62,Mentalis 199,199,2,Chin Lines,"Deep inferiorly on mandible, superficially above, near mental crease","Soften mental crease, relax chin, soften dimples on chin (cobblestone appearance of chin) ","May inadvertently inject DLI, causing crooked smile"
+63,Mentalis 200,200,2,Chin Lines,"Deep inferiorly on mandible, superficially above, near mental crease","Soften mental crease, relax chin, soften dimples on chin (cobblestone appearance of chin) ","May inadvertently inject DLI, causing crooked smile"
+64,Mentalis 208,208,2,Chin Lines,"Deep inferiorly on mandible, superficially above, near mental crease","Soften mental crease, relax chin, soften dimples on chin (cobblestone appearance of chin) ","May inadvertently inject DLI, causing crooked smile"
+65,Mentalis 428,428,2,Chin Lines,"Deep inferiorly on mandible, superficially above, near mental crease","Soften mental crease, relax chin, soften dimples on chin (cobblestone appearance of chin) ","May inadvertently inject DLI, causing crooked smile"
+66,Masseter 58,58,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+67,Masseter 132,132,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+68,Masseter 137,137,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+69,Masseter 138,138,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+70,Masseter 177,177,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+71,Masseter 192,192,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+72,Masseter 215,215,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+73,Masseter 288,288,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+74,Masseter 323,323,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+75,Masseter 361,361,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+76,Masseter 366,366,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+77,Masseter 401,401,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+78,Masseter 416,416,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
+79,Masseter 433,433,1,Masseter Hypertrophy,"Very deep, usually requires ½” needle",Reduce size of masseter and/ or decrease TMJ pain,May affect smile if risorius muscle receives BoNT-A
