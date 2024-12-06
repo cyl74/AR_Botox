@@ -2,11 +2,6 @@
 
 Our project allows for real-time patient face scanning with region and injection point overlay to aid in Botox surgery. It gives the users options on which injection points to show, a reference image which creates landmarks on a 2D image, and a database full of medical information.
 
-## Important Links
-
-| [Timesheet](https://1sfu-my.sharepoint.com/:x:/g/personal/hamarneh_sfu_ca/EXzlov-aj2tLpQczIstchhABSvEDwdkvoQzwZ256HZMDlQ?e=QMYgFH) | [Slack channel](https://app.slack.com/client/T07K7SWL5A4/C07JP7SKR1T) | [Project report](https://www.overleaf.com/project/66d0af15e95829d3bca580e3) |
-|-----------|---------------|-------------------------|
-
 
 ## Video/demo/GIF
 [Demo video can be found here](https://drive.google.com/file/d/1AEQx9qpp4w2zriho360IgaxnaJ402W2C/view?t=4)
