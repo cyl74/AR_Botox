@@ -22,7 +22,6 @@ Our project allows for real-time patient face scanning with region and injection
 
 To use the live AR feed of our app, the user can select from a list of injection points on the right-hand side, organized by face area and region (example: Eye --> Orbital Oculi). This will update the video to include a draw region, along with a small dot where the injeciton should take place, allowing for needle guidance. Multiple points, from different areas can be selected at the same time. There are five tabs in the patient information column, the first of which allows the user to upload someone's image for reference, in which all of the regions are divided for insight. The details tab shows information (name, contact, date of birth, medical history) of the selected patient, which can be found in the search tab. The add patient tab is self-explanatory as it just provides an interface to add to the database, while the appointments tab shows upcoming and priors appointments for a specified patient, along with the option to schedule a new one.
 
-![GUI Example](./complete_gui.png)
 
 ### What to find where
 
